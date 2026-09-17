@@ -2,3 +2,4 @@
 "Version 1" 
 "Login feature implemented" 
 "Student profile feature" 
+GitOps end-to-end verification 
